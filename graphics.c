@@ -1,3 +1,7 @@
+/*
+ * Author: Jiayuan Chen
+ */
+
 #include "graphics.h"
 #include "gba.h"
 #include "images/gbaTitle.h"
