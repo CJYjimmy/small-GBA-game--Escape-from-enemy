@@ -1,3 +1,7 @@
+/*
+ * Author: Jiayuan Chen
+ */
+
 #include "logic.h"
 #include "gba.h"
 
