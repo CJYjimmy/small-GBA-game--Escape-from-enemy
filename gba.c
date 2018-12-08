@@ -1,3 +1,6 @@
+/*
+ * Author: Jiayuan Chen
+ */
 #include "gba.h"
 
 volatile unsigned short *videoBuffer = (volatile unsigned short *)0x6000000;
